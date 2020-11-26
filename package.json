@@ -1,0 +1,13 @@
+{
+  "name": "boiler.ts",
+  "version": "0.1.0",
+  "description": "Boiler.ts is a templating engine with a GUI and an extensible library.",
+  "main": "dist/index.js",
+  "repository": "https://github.com/knoxd8256/Boiler.ts.git",
+  "author": "David Knox <dakdave26@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tsc": "^1.20150623.0",
+    "typescript": "^4.1.2"
+  }
+}
